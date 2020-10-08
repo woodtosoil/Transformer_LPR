@@ -15,6 +15,6 @@ python tools/train.py
 
 
 ### References
-[deep-text-recognition-benchmark](https://arxiv.org/abs/1904.01906)
-[https://github.com/opconty/Transformer_STR]
+> [deep-text-recognition-benchmark](https://arxiv.org/abs/1904.01906)  
+> https://github.com/opconty/Transformer_STR
 
