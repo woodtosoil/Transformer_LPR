@@ -1,6 +1,6 @@
-# Transformer-based Lisence Plate Recognition (Transformer-LPR)
+# Transformer-based License Plate Recognition (Transformer-LPR)
 
-PyTorch implementation of my new method for Scene Text Recognition (STR) based on [Transformer](https://arxiv.org/abs/1706.03762).
+PyTorch implementation of my new method for License Plate Recognition based on [Transformer](https://arxiv.org/abs/1706.03762).
 
 I adapted the four-stage STR framework devised by [deep-text-recognition-benchmark](https://arxiv.org/abs/1904.01906), and replaced the `Pred.` stage with **Transformer**.
 
